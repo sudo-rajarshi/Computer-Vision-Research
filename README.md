@@ -6,5 +6,6 @@ All important notebooks for Computer Vision Research
 ### Linux:
 * `git clone https://github.com/sudo-rajarshi/Computer-Vision-Research.git`
 * `cd Computer-Vision-Research`
+* Create virtual envioronment and activate it (optional)
 * `pip3 install -r requirements.txt`
 * `jupyter notebook`
